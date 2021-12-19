@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juaman93
-- 👀 I’m interested in learning beginner coding content
-- 🌱 I’m currently learning VBA, JavaScript and general Responsive Web Design
+- 👀 I’m interested in coding content
+- 🌱 I’m currently learning Java, VBA, JavaScript and general Responsive Web Design
 - 💞️ I’m looking to collaborate on Web Design
 - 📫 How to reach me:
   email: juanmm990@gmail.com
